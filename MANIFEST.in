@@ -1,5 +1,5 @@
-recursive-include votings_core *
-prune python_basic/__pycache__
+recursive-include votingscore *
+prune votingscore/__pycache__
 recursive-exclude tests *
 recursive-exclude build *
 recursive-exclude scripts *
