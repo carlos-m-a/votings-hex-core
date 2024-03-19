@@ -1,4 +1,4 @@
-recursive-include votingscore *
+recursive-include src/votingscore *
 prune votingscore/__pycache__
 recursive-exclude tests *
 recursive-exclude build *

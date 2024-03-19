@@ -24,4 +24,4 @@ Homepage = "https://github.com/organization/votings-hex-core"
 
 
 [tool.setuptools.packages.find]
-include = ["votingscore*"]
+include = ["src/votingscore*"]
